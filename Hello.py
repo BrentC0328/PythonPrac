@@ -10,12 +10,17 @@ print ("\n" "\n")
 
 
 # (def)ine a function
-def add_stuff(x, y):
-    print(x + y)
+# def add_stuff(x, y):
+#     print(x + y)
 
-add_stuff(5, 7)
+# add_stuff(5, 7)
 
 
+#Dynamic typing (zzz)
+x = 5
+print(x)  # Output: 5
+x = "Hello"
+print(x)  # Output: Hello
 
 
 print ("\n" "\n")
